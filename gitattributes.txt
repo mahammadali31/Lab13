@@ -1,8 +1,0 @@
-# Gradle wrapper script (Unix line endings)
-gradle-wrapper* text eol=lf
-
-# Windows batch files (CRLF line endings)
-*.cmd text eol=crlf
-
-# Java archives (Binary files)
-*.war binary
