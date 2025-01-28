@@ -62,7 +62,7 @@
 #
 #       You can find Gradle at https://github.com/gradle/gradle/.
 #
-#       For project details, please visit: https://github.com/akbulut007/remove-secret.git
+#       For project details, please visit: https://github.com/mahammadali31/Lab13.git
 #
 ##############################################################################
 
@@ -131,7 +131,7 @@ if [ -n "$JAVA_HOME" ] ; then
 
 Please set the JAVA_HOME variable in your environment to match the
 location of your Java installation.
-For more details, visit: https://github.com/akbulut007/remove-secret.git"
+For more details, visit: https://github.com/mahammadali31/Lab13.git"
     fi
 else
     JAVACMD=java
@@ -141,7 +141,7 @@ else
 
 Please set the JAVA_HOME variable in your environment to match the
 location of your Java installation.
-For more details, visit: https://github.com/akbulut007/remove-secret.git"
+For more details, visit: https://github.com/mahammadali31/Lab13.git"
     fi
 fi
 
