@@ -37,4 +37,4 @@ These additional references should also help you:
 
 ### Project Repository
 
-You can find the source code for this project at: [git@github.com:akbulut007/remove-secret.git](git@github.com:akbulut007/remove-secret.git)
+You can find the source code for this project at: [git@github.com:akbulut007/remove-secret.git](https://github.com/mahammadali31/Lab13.git)
